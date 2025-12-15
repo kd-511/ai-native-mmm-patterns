@@ -1,6 +1,6 @@
 # The Core Failure Modes of MMM Systems
 
-This document outlines the most common ways Marketing Mix Modeling (MMM) systems fail at scale — not academically, but operationally — and the design patterns that prevent those failures.
+This document outlines the most common ways Marketing Mix Modeling (MMM) systems fail at scale not academically, but operationally and the design patterns that prevent those failures.
 
 This is intentionally tool-, vendor-, and company-agnostic.
 
