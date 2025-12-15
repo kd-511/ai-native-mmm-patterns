@@ -1,6 +1,6 @@
 # AI-Native MMM Patterns
 
-Architecture patterns for AI-native Marketing Mix Modeling (MMM) systems — focused on stability, Bayesian design principles, and non-proprietary measurement insights.
+Architecture patterns for AI-native Marketing Mix Modeling (MMM) systems focused on stability, Bayesian design principles, and non-proprietary measurement insights.
 
 This repository documents how MMM systems should be designed in the AI era: resilient across refreshes, interpretable for decision-making, and grounded in sound system architecture rather than ad hoc modeling.
 
