@@ -127,20 +127,28 @@ Non-negotiables:
 ---
 
 ## Start here
-- `docs/01-failure-modes-of-mmm.md`  
-  How MMM platforms fail at scale and the architectural patterns that prevent instability, drift, and loss of trust.
+If you’re new to MMM or coming from outside measurement, start with foundations and activation first, then go deeper.
+
+1) **MMM for Product Leaders (Foundations + Use Cases)**
+- `docs/00-mmm-for-product-leaders.md`
+
+2) **Activation and Governance (How MMM becomes useful in the real world)**
+- `docs/01-activation-and-governance.md`
+
+3) **Common Pitfalls (Why MMM programs fail and how to prevent it)**
+- `docs/02-failure-modes-of-mmm.md`
 
 ---
 
 ## Library roadmap
 This repo is organized as short docs with concrete artifacts you can adopt.
 
-Planned / upcoming:
-- `docs/00-mmm-foundations-for-product-leaders.md` (concepts, where it works, where it does not)
-- `docs/02-stability-layer.md` (drift metrics, guardrails, refresh governance)
-- `docs/03-data-contracts-and-lineage.md` (contracts, monitoring, diffable transforms)
-- `docs/04-trust-by-default-reporting.md` (standard reports, diagnostics, uncertainty)
-- `docs/05-activation-and-governance.md` (planning cadence, signoffs, decision workflows)
+- `docs/00-mmm-for-product-leaders.md` (concepts, where it works, where it does not, core use cases)
+- `docs/01-activation-and-governance.md` (planning cadence, signoffs, decision workflows)
+- `docs/02-failure-modes-of-mmm.md` (instability, drift, trust breaks, decision disconnects)
+- `docs/03-stability-layer.md` (drift metrics, guardrails, refresh governance)
+- `docs/04-data-contracts-and-lineage.md` (contracts, monitoring, diffable transforms)
+- `docs/05-trust-by-default-reporting.md` (standard reports, diagnostics, uncertainty)
 - `docs/06-closed-loop-decision-systems.md` (decision logging, outcome evaluation, recalibration)
 - `docs/07-mlops-onboarding-for-mmm.md` (certification, release gates, observability, runbooks)
 - `docs/08-agentic-workflows-for-mmm.md` (agent roles, guardrails, approvals, audit trails)
