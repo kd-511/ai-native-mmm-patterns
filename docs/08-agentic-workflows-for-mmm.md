@@ -1,6 +1,3 @@
-Paste this **exact Markdown** into `docs/08-agentic-workflows-for-mmm.md`. It’s formatted to render like your screenshot: title, two short intro paragraphs, **Contents** with linked bullets, then the first section starts and uses the same “What it is / What it does / Outputs” style.
-
-```md
 # Agentic Workflows for MMM
 
 Agents can make MMM operations dramatically faster. They can also destroy trust faster than any model bug if they generate confident narratives, silently change assumptions, or act without auditability.
@@ -204,4 +201,3 @@ Agents should not be the decision maker. They should be operating leverage.
 ---
 
 If you implement role-scoped agents, read-only defaults, approvals, audit trails, and evaluation, agentic workflows can make MMM faster and safer. Without guardrails, they will make it faster and wrong.
-```
